@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GadgetsInbudget/static/css/main.87660760.css",
+    "main.js": "/GadgetsInbudget/static/js/main.43ea7806.js",
+    "static/js/787.dcc73137.chunk.js": "/GadgetsInbudget/static/js/787.dcc73137.chunk.js",
+    "index.html": "/GadgetsInbudget/index.html",
+    "main.87660760.css.map": "/GadgetsInbudget/static/css/main.87660760.css.map",
+    "main.43ea7806.js.map": "/GadgetsInbudget/static/js/main.43ea7806.js.map",
+    "787.dcc73137.chunk.js.map": "/GadgetsInbudget/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87660760.css",
+    "static/js/main.43ea7806.js"
+  ]
+}
